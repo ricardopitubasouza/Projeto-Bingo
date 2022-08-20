@@ -5,7 +5,10 @@
  */
 package modelo.bean;
 
-
+/*
+ *
+ * @author Pituba
+ */
 public class TotaldeRepeticoes {
     static String vetorquinzestr, vetordezesseisstr, vetordezessetestr;
 
